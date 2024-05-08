@@ -1,0 +1,18 @@
+Broadcom Faces Backlash Over Licensing, EU Trade Groups Demand Investigation
+
+On Monday, critics of Broadcom Inc AVGO dismissed the U.S. chipmaker’s revisions to its cloud licensing practices, arguing that the changes fail to resolve their concerns over alleged price increases, unfair software licensing terms, and product bundling.
+Last week, Broadcom CEO Hock Tan announced in a blog post a series of modifications to the licensing conditions of the recently acquired cloud computing company VMware, following grievances from some EU business users and a trade group.
+These adjustments included significant price reductions for VMware’s cloud platform and alterations that allow customers to transfer their workloads from their own data centers to cloud providers and among various cloud providers, Reuters reports.
+Also Read: Broadcom Succumbs to EU Antitrust Investigation Over VMware Licensing, Prompting Swift Pricing Strategy Revision
+However, trade body CISPE, with members like Amazon.Com Inc AMZN and 26 small EU cloud providers, along with the French association of business users Cigref and Austrian cloud service provider Anexia, both CISPE members, declared that the real issue lies not with Broadcom’s subscription license model.
+In a joint statement, they criticized the substantial and unjustifiable price hikes, product rebundling, changes to the billing basis, and the imposition of unfair software licensing terms that limit choice and lock in customers and partners.
+Broadcom, in response, stated that it was providing more choices for customers and partners.
+The groups have urged EU antitrust regulators, who have sought opinions from rivals and customers, to investigate the matter.
+Meanwhile, Oppenheimer analyst Rick Schafer has picked Broadcom as one of his top semiconductor picks, citing the combination of expanding earnings power over time, sticky/stable industrial/infrastructure exposure, and defensible technology.
+According to the analyst, Broadcom will benefit from its position as the top high-speed networking/connectivity/custom computing supplier as the demand for data center artificial intelligence continues to rise.
+Schafer said Ericsson ERIC noted some signs of improved carrier spending due to a 2% demand pickup in handset demand, which will likely be Broadcom.
+Broadcom stock gained 93% in the last 12 months. Investors can gain exposure to the stock via Pacer Funds Pacer Data And Digital Revolution ETF TRFK and Amplify ETF Trust Amplify Cybersecurity ETF HACK.
+Price Action: AVGO shares traded lower by 0.70% at $1,233.01 premarket at the last check Tuesday.
+Also Read: Broadcom’s AI Chips Forge Ahead Unlocking Billions in Tech Potential, Analysts Say
+Disclaimer: This content was partially produced with the help of AI tools and was reviewed and published by Benzinga editors.
+Photo via Shutterstock

@@ -1,0 +1,19 @@
+The Worst Part of a Wall Street Career May Be Coming to an End
+Artificial intelligence tools can replace much of Wall Street’s entry-level white-collar work, raising tough questions about the future of finance.
+
+Pulling all-nighters to assemble PowerPoint presentations. Punching numbers into Excel spreadsheets. Finessing the language on esoteric financial documents that may never be read by another soul.
+
+Such grunt work has long been a rite of passage in investment banking, an industry at the top of the corporate pyramid that lures thousands of young people every year with the promise of prestige and pay.
+
+Until now. Generative artificial intelligence — the technology upending many industries with its ability to produce and crunch new data — has landed on Wall Street. And investment banks, long inured to cultural change, are rapidly turning into Exhibit A on how the new technology could not only supplement but supplant entire ranks of workers.
+
+The jobs most immediately at risk are those performed by analysts at the bottom rung of the investment banking business, who put in endless hours to learn the building blocks of corporate finance, including the intricacies of mergers, public offerings and bond deals. Now, A.I. can do much of that work speedily and with considerably less whining.
+
+“The structure of these jobs has remained largely unchanged at least for a decade,” said Julia Dhar, head of BCG’s Behavioral Science Lab and a consultant to major banks experimenting with A.I. The inevitable question, as she put it, is “do you need fewer analysts?”
+
+
+Julia Dhar stands before a blue blurred background, wearing a aqua-colored blazer and gesticulating as she appears to be speaking.
+The inevitable question, according to Julia Dhar, head of BCG’s Behavioral Science Lab, is “do you need fewer analysts?”Credit...John Lamparski/Getty Images for Concordia Summit
+Some of Wall Street’s major banks are asking the same question, as they test A.I. tools that can largely replace their armies of analysts by performing in seconds the work that now takes hours, or a whole weekend. The software, being deployed inside banks under code names such as “Socrates,” is likely not only to change the arc of a Wall Street career, but also to essentially nullify the need to hire thousands of new college graduates.
+
+Top executives at Goldman Sachs, Morgan Stanley and other banks are debating how deep they can cut their incoming analyst classes, according to several people involved in the ongoing discussions. Some inside those banks and others have suggested they could cut back on their hiring of junior investment banking analysts by as much as two-thirds, and slash the pay of those they do hire, on the grounds that the jobs won’t be as taxing as before.

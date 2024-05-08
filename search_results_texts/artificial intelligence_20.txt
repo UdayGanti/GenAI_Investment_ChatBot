@@ -1,0 +1,20 @@
+Microsoft Rattles OpenAI With New AI Model That's 'As Capable As' GPT-3.5, While Apple Is Still Hashing Out Its Google Gemini Plans For iPhones
+
+Microsoft Corp. MSFT has launched Phi-3 Mini, a lightweight AI model with 3.8 billion parameters, the smallest in its Phi series.
+What Happened: Microsoft's Phi-3 is the first of three small models that Microsoft plans to release. It is trained on a relatively smaller dataset and is now available on Azure, Hugging Face, and Ollama.
+The Phi-3 Mini is an improvement over its predecessor, Phi-2, and is said to perform as well as larger models like Meta Platforms Inc.'s Llama 2, and OpenAI's GPT-3.5.
+Microsoft plans to release two more models in the Phi-3 series: Phi-3 Small (7B parameters) and Phi-3 Medium (14B parameters).
+Phi-3 Mini is primarily geared at lower capacity devices like smartphones and comes at a time when Apple Inc. is still hashing out plans to license Alphabet Inc.'s Google Gemini AI for iPhones.
+Subscribe to the Benzinga Tech Trends newsletter to get all the latest tech developments delivered to your inbox.
+Eric Boyd, corporate vice president of Microsoft Azure AI Platform, told The Verge that Phi-3 Mini is as capable as larger language models (LLMs) like GPT-3.5, but in a smaller form factor.
+See Also: Microsoft And Oracle Could Be TikTok’s ‘Likely Buyers,’ But Real Winners Would Be Mark Zuckerberg And Sundar Pichai
+He also revealed that developers trained Phi-3 using a “curriculum,” inspired by how children learn from bedtime stories and books with simpler words and sentence structures that talk about larger topics.
+Why It Matters: The launch of Phi-3 Mini is the latest in line with Microsoft’s strategy of developing lightweight AI models. These models are not only cheaper to run but also perform better on personal devices such as smartphones and laptops.
+See Also: Doge Day Has An Elon Musk Connection, Meme Coin Rebounds After The Bitcoin Halving ‘Sell-The-News’ Drop
+Microsoft’s competitors also have their own small AI models, each targeting specific tasks. For example, Google’s Gemma 2B and 7B are suitable for simple chatbots and language-related work, while Jeff Bezos-backed Anthropic Claude 3 Haiku can read dense research papers with graphs and summarize them quickly.
+Meta’s recently released Llama 3 8B can be used for chatbots and coding assistance.
+Price Action: Microsoft's stock closed 0.46% up at $400.96 on Monday, according to Benzinga Pro.
+Check out more of Benzinga’s Consumer Tech coverage by following this link.
+Read Next: Meta Takes A Leaf Out Of Google’s Playbook, Aims To Make Quest OS The Android Of Mixed Reality
+Disclaimer: This content was partially produced with the help of Benzinga Neuro and was reviewed and published by Benzinga editors.
+Photo by Andrea De Santis on Unsplash

@@ -1,0 +1,63 @@
+1708988332206	geckodriver	INFO	Listening on 127.0.0.1:56785
+1708988335287	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56786" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\UDAYGA~1\\AppData\\Local\\Temp\\rust_mozprofiles4WHvB"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1708988335675	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1708988335753	Marionette	INFO	Listening on port 56798
+WebDriver BiDi listening on ws://127.0.0.1:56786
+Read port: 56798
+1708988335937	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:56786/devtools/browser/3857c2ec-702f-4224-858e-b0cf7023c581
+JavaScript warning: https://pagead2.googlesyndication.com/bg/BoEj1MRYnOy5BSN5ElbJySd6MGFyYBWT_ZtkFEIAVvM.js line 2 > eval line 2418 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/JdvibbZ7pdYNP3x_edcq2fSBaypuhp11EZJydPE6SQs.js line 2 > eval line 1197 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1708988344489	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1708988344504	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1708988360723	Marionette	INFO	Stopped listening on port 56798
+JavaScript warning: https://code.createjs.com/1.0.0/createjs.min.js, line 12: Script terminated by timeout at:
+a._handleTimeout@https://code.createjs.com/1.0.0/createjs.min.js:12:6739
+
+JavaScript warning: https://s.yimg.com/aaq/f10d509c/d3lm64ch1c76ug.js, line 1: Script terminated by timeout at:
+eJ@https://s.yimg.com/aaq/f10d509c/d3lm64ch1c76ug.js:1:89386
+
+JavaScript warning: https://5be4b2e23361b3b6dc934166df4cc70b.safeframe.googlesyndication.com/safeframe/1-0-40/html/container.html line 16 > injectedScript line 18 > eval, line 1: Script terminated by timeout at:
+eJ@https://5be4b2e23361b3b6dc934166df4cc70b.safeframe.googlesyndication.com/safeframe/1-0-40/html/container.html line 16 > injectedScript line 18 > eval:1:89429
+
+Dynamically enable window occlusion 1
+1708988463180	geckodriver	INFO	Listening on 127.0.0.1:65042
+1708988466237	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65043" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\UDAYGA~1\\AppData\\Local\\Temp\\rust_mozprofilepNZY6d"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1708988466506	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1708988466558	Marionette	INFO	Listening on port 65056
+WebDriver BiDi listening on ws://127.0.0.1:65043
+Read port: 65056
+1708988466710	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:65043/devtools/browser/3133c612-d5ed-4861-b246-ed09361b8ef5
+1708988470497	Marionette	INFO	Stopped listening on port 65056
+Dynamically enable window occlusion 1
+1708988502517	geckodriver	INFO	Listening on 127.0.0.1:65095
+1708988505568	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65096" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\UDAYGA~1\\AppData\\Local\\Temp\\rust_mozprofileYmPL0m"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1708988505834	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1708988505887	Marionette	INFO	Listening on port 65103
+WebDriver BiDi listening on ws://127.0.0.1:65096
+Read port: 65103
+1708988506029	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:65096/devtools/browser/990544bc-ea89-47c4-870c-0a7f0ded82b9
+JavaScript warning: https://pagead2.googlesyndication.com/bg/BoEj1MRYnOy5BSN5ElbJySd6MGFyYBWT_ZtkFEIAVvM.js line 2 > eval line 3366 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/BoEj1MRYnOy5BSN5ElbJySd6MGFyYBWT_ZtkFEIAVvM.js line 2 > eval line 3398 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/BoEj1MRYnOy5BSN5ElbJySd6MGFyYBWT_ZtkFEIAVvM.js line 2 > eval line 5620 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1708988518435	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://hb.yahoo.net/bidexchange.js?cid=8YHB97349&version=12.1&dn=finance.yahoo.com&ysection=ros&yregion=US&ylang=en-US&ysite=finance&ydevice=desktop, line 1: Script terminated by timeout at:
+M1@https://hb.yahoo.net/bidexchange.js?cid=8YHB97349&version=12.1&dn=finance.yahoo.com&ysection=ros&yregion=US&ylang=en-US&ysite=finance&ydevice=desktop:1:565773
+1505/setNetworkMetricEntries/<@https://hb.yahoo.net/bidexchange.js?cid=8YHB97349&version=12.1&dn=finance.yahoo.com&ysection=ros&yregion=US&ylang=en-US&ysite=finance&ydevice=desktop:1:412095
+1505/setNetworkMetricEntries/<@https://hb.yahoo.net/bidexchange.js?cid=8YHB97349&version=12.1&dn=finance.yahoo.com&ysection=ros&yregion=US&ylang=en-US&ysite=finance&ydevice=desktop:1:411694
+setNetworkMetricEntries@https://hb.yahoo.net/bidexchange.js?cid=8YHB97349&version=12.1&dn=finance.yahoo.com&ysection=ros&yregion=US&ylang=en-US&ysite=finance&ydevice=desktop:1:412326
+3577/setupTriggerNetworkAuditLog/<@https://hb.yahoo.net/bidexchange.js?cid=8YHB97349&version=12.1&dn=finance.yahoo.com&ysection=ros&yregion=US&ylang=en-US&ysite=finance&ydevice=desktop:1:410784
+
+1708988531665	Marionette	INFO	Stopped listening on port 65103
+Dynamically enable window occlusion 1

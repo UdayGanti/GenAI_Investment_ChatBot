@@ -1,0 +1,23 @@
+'China's Netflix' Wants To Woo Aging Population With AI Content After Turning Profitable
+
+iQiyi Inc. IQ, often referred to as China’s Netflix, is adapting its strategy to cater to the country’s aging population. The company is also leveraging artificial intelligence (AI) to enhance its content production.
+What Happened: iQiyi’s CEO and founder, Gong Yu, announced at the company’s annual conference on Tuesday that the platform is reorienting its focus towards older users, reported CNBC. Gong highlighted the challenges faced by older users, such as eyesight deterioration due to increased screen time.
+He also pointed out that by 2033, a quarter of China’s population will be considered elderly, a figure that is expected to rise to a third by 2053. With the country’s aging population, iQiyi is looking to improve its content quality for children, as fewer children are being born in China.
+See Also: Nvidia’s High-End Chips Ended Up In Chinese Hands Despite US Ban: Here’s How Beijing Scored Them
+Additionally, iQiyi is integrating AI tools into its content production process. The company’s Chief Technology Officer, Liu Wenfeng, demonstrated the platform’s AI capabilities, which can quickly replicate multi-camera shots in a virtual environment and analyze novels for production-worthy stories.
+This shift in strategy comes at a time when iQiyi is looking to expand its business in overseas markets as growth in China moderates. The company, which went public in the U.S. in 2018, reported a profit for the first time in 2023, after posting annual losses of $1 billion or more for several years.
+Why It Matters: The shift in iQiyi’s strategy reflects the changing demographics in China, with an increasing number of elderly citizens. This move also aligns with the broader trend of AI integration in the entertainment industry.
+Earlier in April, Adobe Inc. announced the development of an AI model for generating video content, positioning itself in competition with other major players like OpenAI‘s Sora and Google’s Imagen 2 in the generative AI video technology field.
+However, AI’s disruptive potential has also led to challenges, as seen with filmmaker Tyler Perry putting his studio expansion plans on hold due to the threat from AI-powered tools like Sora.
+Companies like Netflix are also adapting their strategies to cater to changing consumer preferences and technological advancements. Netflix recently reported a surge in subscriber numbers, indicating the growing demand for streaming services.
+Read Next: Chinese Hackers Could Control Your Water — And Are Laying in Wait: FBI
+Image via Shutterstock
+Engineered by
+        Benzinga Neuro, Edited by
+        
+
+              Kaustubh Bagalkote
+The GPT-4-based Benzinga Neuro content generation system exploits the
+        extensive Benzinga Ecosystem, including native data, APIs, and more to
+        create comprehensive and timely stories for you.
+        Learn more.
